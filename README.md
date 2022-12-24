@@ -1,0 +1,1 @@
+This is the README for the first project in The Odin Project's Foundations; the Recipes project. It to be a basic recipe website showcasing basic HTML skills: familiarity with the HTML boilerplate, common tags, and attributes. It will be revisted with CSS in a future project.
