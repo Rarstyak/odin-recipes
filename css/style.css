@@ -1,0 +1,23 @@
+#title {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    font-style: bold;
+}
+
+.description {
+    background-color: yellowgreen;
+}
+
+p.description {
+    font-style: italic;
+}
+
+ul.ingredients {
+    background-color: aqua;
+}
+
+ol.steps {
+    background-color: aquamarine;
+}
